@@ -1,0 +1,603 @@
+{
+  "business": {
+    "name": "Vazproz Electric",
+    "phone": "+16199518337",
+    "category": "electrician",
+    "city": "San Diego",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Diego's Trusted Electricians",
+      "heroSubline": "Powering homes and businesses with expertise and integrity. Get reliable electrical solutions from licensed professionals.",
+      "aboutTitle": "Reliable Electrical Solutions in San Diego",
+      "aboutText": [
+        "Vazproz Electric started with a simple goal: to provide honest, reliable electrical services to our San Diego neighbors. Founded over a decade ago by a team of experienced electricians, we've built our reputation on quality workmanship and a commitment to customer satisfaction.",
+        "We believe in doing the job right the first time. Our team uses the latest technology and techniques to ensure safe, efficient, and long-lasting electrical solutions. We prioritize clear communication and transparent pricing, so you always know what to expect.",
+        "As a San Diego-based company, we're invested in the well-being of our community. We actively support local initiatives and strive to minimize our environmental impact. When you choose Vazproz Electric, you're choosing a partner who cares about your home and your neighborhood."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Technicians",
+          "description": "Licensed and highly trained electricians with years of experience in San Diego homes and businesses."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "Honest and transparent pricing with no hidden fees. You'll know the cost before we start the work."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We arrive on time and complete the job efficiently, minimizing disruption to your daily routine."
+        },
+        {
+          "title": "Safety First",
+          "description": "We adhere to the highest safety standards to protect your home and family. Fully licensed and insured."
+        }
+      ],
+      "ctaHeadline": "Need Electrical Help?",
+      "ctaSubline": "Contact Vazproz Electric today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Ensure your home's electrical system can handle modern power demands.",
+        "description": "Is your electrical panel outdated or struggling to keep up with your power needs? Many older San Diego homes, especially those in areas like North Park and Hillcrest, have panels that were not designed for today's appliances and electronics. Upgrading your electrical panel is crucial for safety and functionality. We'll assess your current panel, determine the appropriate size for your home's electrical load, and install a new, code-compliant panel. This includes removing the old panel, installing the new one, connecting all circuits, and ensuring proper grounding. We also handle all necessary permits and inspections to guarantee compliance with San Diego's electrical codes. Protect your home from electrical fires and enjoy the convenience of a modern electrical system with a panel upgrade from Vazproz Electric.\n\nWe understand the unique challenges of older homes in San Diego, including dealing with outdated wiring and limited space. Our experienced electricians will work closely with you to find the best solution for your needs and budget. Whether you're adding new appliances, renovating your home, or simply want to ensure your electrical system is safe and reliable, we can help.\n\nDon't wait until you experience flickering lights, tripped breakers, or other electrical problems. Contact Vazproz Electric today to schedule a free consultation and learn more about our electrical panel upgrade services.",
+        "process": [
+          "Step 1: Assess your current electrical panel and power needs.",
+          "Step 2: Recommend the appropriate panel size and capacity.",
+          "Step 3: Obtain necessary permits from the City of San Diego.",
+          "Step 4: Safely remove the old panel and install the new one.",
+          "Step 5: Connect all circuits and ensure proper grounding.",
+          "Step 6: Conduct a thorough inspection to ensure code compliance."
+        ],
+        "benefits": [
+          "Improved electrical safety",
+          "Increased electrical capacity",
+          "Elimination of flickering lights and tripped breakers",
+          "Support for new appliances and electronics",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Common signs include frequent tripped breakers, flickering lights, outdated panel with fuses, adding new appliances, or renovating your home. We can perform an inspection to determine if an upgrade is necessary."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "Typically, an electrical panel upgrade takes one full day to complete. We will schedule the work at your convenience and minimize any disruption to your home."
+          },
+          {
+            "question": "Do I need a permit for an electrical panel upgrade?",
+            "answer": "Yes, in San Diego, a permit is required for electrical panel upgrades. Vazproz Electric will handle all necessary permits and inspections to ensure code compliance."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-installation",
+        "name": "Lighting Installation",
+        "shortDescription": "Enhance your home's ambiance and energy efficiency with expertly installed lighting.",
+        "description": "From recessed lighting to chandeliers, Vazproz Electric provides professional lighting installation services throughout San Diego. We work with all types of lighting fixtures, including LED, fluorescent, and incandescent. Whether you're upgrading existing lighting, adding new fixtures, or installing landscape lighting, we have the expertise to get the job done right. We understand the unique challenges of San Diego homes, including the need for energy-efficient solutions to combat the intense sun exposure. Our team can help you choose the right lighting fixtures to maximize energy savings and create the perfect ambiance for your home.\n\nWe handle all aspects of lighting installation, including wiring, mounting, and connecting fixtures. We also ensure that all work is done in compliance with San Diego's electrical codes. Whether you're looking to brighten up your kitchen, add ambiance to your living room, or enhance your outdoor space, we can help. We serve all areas of San Diego, from the beach communities to inland suburbs.\n\nConsider the coastal climate when choosing outdoor fixtures. Salt air can corrode cheaper materials quickly. Let us advise you on durable, stylish options built to last. Contact Vazproz Electric today to schedule a free consultation and discuss your lighting needs.",
+        "process": [
+          "Step 1: Discuss your lighting goals and preferences.",
+          "Step 2: Recommend appropriate lighting fixtures and placement.",
+          "Step 3: Install new wiring and electrical boxes as needed.",
+          "Step 4: Mount and connect all lighting fixtures.",
+          "Step 5: Test all lighting fixtures to ensure proper operation."
+        ],
+        "benefits": [
+          "Improved home aesthetics",
+          "Increased energy efficiency",
+          "Enhanced safety and security",
+          "Customized lighting solutions",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "What types of lighting fixtures do you install?",
+            "answer": "We install all types of lighting fixtures, including recessed lighting, chandeliers, pendant lights, track lighting, sconces, and landscape lighting."
+          },
+          {
+            "question": "Can you help me choose the right lighting fixtures for my home?",
+            "answer": "Yes, our experienced electricians can provide expert advice on lighting fixtures to meet your needs and budget. We'll consider factors such as energy efficiency, aesthetics, and functionality."
+          },
+          {
+            "question": "Do I need a permit for lighting installation?",
+            "answer": "In some cases, a permit may be required for lighting installation, especially if new wiring is involved. Vazproz Electric will handle all necessary permits and inspections."
+          }
+        ]
+      },
+      {
+        "slug": "outlet-and-switch-repair",
+        "name": "Outlet and Switch Repair",
+        "shortDescription": "Resolve faulty outlets and switches quickly and safely.",
+        "description": "Faulty outlets and switches can be a safety hazard and inconvenience. Vazproz Electric provides fast and reliable outlet and switch repair services throughout San Diego. Whether you have a dead outlet, a loose switch, or a burning smell, our experienced electricians can diagnose and repair the problem quickly and safely. We understand the importance of electrical safety, especially in older San Diego homes with outdated wiring. Our team uses the latest tools and techniques to ensure that all repairs are done correctly and in compliance with San Diego's electrical codes.\n\nWe handle all types of outlet and switch repairs, including replacing damaged outlets, repairing loose wiring, and installing GFCI outlets in kitchens and bathrooms. We also offer outlet and switch upgrades to improve safety and functionality. From La Jolla to Escondido, we're ready to resolve your electrical issues.\n\n Don't ignore electrical problems. Contact Vazproz Electric today to schedule a repair and ensure the safety of your home.",
+        "process": [
+          "Step 1: Diagnose the problem with the outlet or switch.",
+          "Step 2: Turn off the power to the affected circuit.",
+          "Step 3: Repair or replace the faulty outlet or switch.",
+          "Step 4: Test the outlet or switch to ensure proper operation."
+        ],
+        "benefits": [
+          "Improved electrical safety",
+          "Elimination of electrical hazards",
+          "Restored functionality of outlets and switches",
+          "Prevention of electrical fires",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if an outlet or switch needs to be repaired?",
+            "answer": "Common signs include dead outlets, loose switches, burning smells, and sparks. If you notice any of these signs, contact Vazproz Electric immediately."
+          },
+          {
+            "question": "What is a GFCI outlet?",
+            "answer": "A GFCI (Ground Fault Circuit Interrupter) outlet is designed to protect against electrical shock. It's required in kitchens, bathrooms, and other areas where water is present."
+          },
+          {
+            "question": "How long does it take to repair an outlet or switch?",
+            "answer": "Most outlet and switch repairs can be completed in under an hour. We'll arrive on time and complete the job efficiently."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-rewiring",
+        "name": "Whole-House Rewiring",
+        "shortDescription": "Upgrade outdated wiring for safety and modern power needs.",
+        "description": "Older homes in San Diego, particularly those built before the 1970s, often have outdated wiring that can be a safety hazard. If your home has knob-and-tube wiring, aluminum wiring, or deteriorating insulation, it's time to consider whole-house rewiring. Vazproz Electric provides comprehensive whole-house rewiring services to ensure the safety and reliability of your electrical system. We'll remove all the old wiring and replace it with new, code-compliant wiring. This includes installing new outlets, switches, and electrical panels as needed. We understand the unique challenges of rewiring older homes, including working around existing structures and minimizing disruption to your daily life.\n\nWe handle all necessary permits and inspections to ensure compliance with San Diego's electrical codes. Our experienced electricians will work closely with you to develop a rewiring plan that meets your needs and budget. We serve all areas of San Diego, from the historic neighborhoods of Coronado to the newer developments in Scripps Ranch.\n\nProtect your home and family from electrical hazards. Contact Vazproz Electric today to schedule a free consultation and learn more about our whole-house rewiring services.",
+        "process": [
+          "Step 1: Assess your current wiring and electrical needs.",
+          "Step 2: Develop a rewiring plan that meets your needs and budget.",
+          "Step 3: Obtain necessary permits from the City of San Diego.",
+          "Step 4: Carefully remove the old wiring and install the new wiring.",
+          "Step 5: Install new outlets, switches, and electrical panels as needed.",
+          "Step 6: Conduct a thorough inspection to ensure code compliance."
+        ],
+        "benefits": [
+          "Improved electrical safety",
+          "Elimination of electrical hazards",
+          "Increased electrical capacity",
+          "Support for modern appliances and electronics",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my home needs rewiring?",
+            "answer": "Common signs include knob-and-tube wiring, aluminum wiring, deteriorating insulation, frequent electrical problems, and a burning smell. We can perform an inspection to determine if rewiring is necessary."
+          },
+          {
+            "question": "How long does whole-house rewiring take?",
+            "answer": "Whole-house rewiring typically takes one to two weeks to complete, depending on the size and complexity of the home. We'll work efficiently to minimize disruption to your daily life."
+          },
+          {
+            "question": "Do I need to move out during whole-house rewiring?",
+            "answer": "In some cases, it may be necessary to move out during whole-house rewiring. We'll discuss this with you during the consultation process and help you make arrangements if needed."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-inspections",
+        "name": "Electrical Inspections",
+        "shortDescription": "Ensure your home's electrical system is safe and up to code.",
+        "description": "Whether you're buying, selling, or simply want to ensure the safety of your home, an electrical inspection from Vazproz Electric can provide peace of mind. Our certified electricians will thoroughly inspect your electrical system, identifying any potential hazards or code violations. We'll provide you with a detailed report outlining our findings and recommendations for corrective action. We understand the importance of electrical safety, especially in San Diego's diverse housing stock. From older homes with outdated wiring to newer homes with complex electrical systems, we have the expertise to identify and address any potential problems.\n\nWe inspect all aspects of your electrical system, including wiring, outlets, switches, electrical panels, and grounding. We also check for proper GFCI protection in kitchens and bathrooms. Our inspections are thorough and comprehensive, ensuring that your home is safe and up to code. We serve all areas of San Diego, from downtown to the suburbs.\n\n Don't wait until an electrical problem arises. Contact Vazproz Electric today to schedule an electrical inspection and protect your home and family.",
+        "process": [
+          "Step 1: Conduct a visual inspection of all accessible electrical components.",
+          "Step 2: Test outlets and switches for proper operation.",
+          "Step 3: Inspect the electrical panel for proper wiring and grounding.",
+          "Step 4: Check for GFCI protection in kitchens and bathrooms.",
+          "Step 5: Provide a detailed report outlining our findings and recommendations."
+        ],
+        "benefits": [
+          "Improved electrical safety",
+          "Identification of potential hazards",
+          "Compliance with San Diego electrical codes",
+          "Peace of mind",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "When should I get an electrical inspection?",
+            "answer": "You should get an electrical inspection when buying or selling a home, renovating your home, or if you have any concerns about the safety of your electrical system."
+          },
+          {
+            "question": "What is included in an electrical inspection?",
+            "answer": "An electrical inspection includes a thorough inspection of your electrical system, including wiring, outlets, switches, electrical panels, and grounding. We'll also check for proper GFCI protection."
+          },
+          {
+            "question": "How long does an electrical inspection take?",
+            "answer": "An electrical inspection typically takes one to two hours to complete, depending on the size and complexity of the home."
+          }
+        ]
+      },
+      {
+        "slug": "ceiling-fan-installation",
+        "name": "Ceiling Fan Installation",
+        "shortDescription": "Enhance comfort and energy efficiency with professional ceiling fan installation.",
+        "description": "Enjoy increased comfort and energy savings with a professionally installed ceiling fan from Vazproz Electric. We provide ceiling fan installation services throughout San Diego, from basic models to those with lights and remote controls. Our experienced electricians will ensure that your ceiling fan is properly installed and wired for safe and reliable operation. We understand the importance of energy efficiency in San Diego's climate, and a ceiling fan can help you reduce your energy consumption and lower your utility bills.\n\nWe handle all aspects of ceiling fan installation, including wiring, mounting, and connecting the fan. We also ensure that all work is done in compliance with San Diego's electrical codes. Whether you're looking to add a ceiling fan to your bedroom, living room, or patio, we can help. We serve all areas of San Diego, from the coastal communities to the inland suburbs.\n\nConsider fans rated for damp or wet locations for patios and other outdoor spaces. Contact Vazproz Electric today to schedule a free consultation and discuss your ceiling fan installation needs.",
+        "process": [
+          "Step 1: Determine the appropriate location for the ceiling fan.",
+          "Step 2: Install a new electrical box if necessary.",
+          "Step 3: Assemble and mount the ceiling fan.",
+          "Step 4: Wire the ceiling fan to the electrical system.",
+          "Step 5: Test the ceiling fan to ensure proper operation."
+        ],
+        "benefits": [
+          "Improved comfort",
+          "Increased energy efficiency",
+          "Lower utility bills",
+          "Enhanced home aesthetics",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "Can I install a ceiling fan myself?",
+            "answer": "While it's possible to install a ceiling fan yourself, it's recommended to hire a licensed electrician to ensure safe and proper installation. Improper installation can lead to electrical hazards and damage to your home."
+          },
+          {
+            "question": "What type of ceiling fan should I choose?",
+            "answer": "The best type of ceiling fan depends on the size of the room, your personal preferences, and your budget. We can provide expert advice on choosing the right ceiling fan for your needs."
+          },
+          {
+            "question": "Do I need a permit for ceiling fan installation?",
+            "answer": "In some cases, a permit may be required for ceiling fan installation, especially if new wiring is involved. Vazproz Electric will handle all necessary permits and inspections."
+          }
+        ]
+      },
+      {
+        "slug": "surge-protection",
+        "name": "Surge Protection",
+        "shortDescription": "Protect your electronics from power surges with whole-house surge protection.",
+        "description": "San Diego's occasional power surges can damage sensitive electronics, from computers to appliances. Vazproz Electric offers whole-house surge protection to safeguard your valuable equipment. A surge protector diverts excess voltage away from your electrical system, preventing damage from power surges caused by lightning, utility fluctuations, or internal sources. We install surge protection devices at your electrical panel, providing comprehensive protection for your entire home. \n\nWe assess your home's electrical needs and recommend the appropriate surge protection solution. Our experienced electricians handle the installation process, ensuring proper grounding and compliance with electrical codes. With whole-house surge protection, you can rest assured that your electronics are safe from damaging power surges. We serve San Diego county, offering peace of mind from La Jolla to Chula Vista.\n\nDon't risk losing expensive electronics. Contact Vazproz Electric today to learn more about whole-house surge protection and protect your investment.",
+        "process": [
+          "Step 1: Assess your home's electrical system and surge protection needs.",
+          "Step 2: Recommend the appropriate surge protection device.",
+          "Step 3: Install the surge protection device at your electrical panel.",
+          "Step 4: Ensure proper grounding and wiring.",
+          "Step 5: Test the surge protection device to ensure proper operation."
+        ],
+        "benefits": [
+          "Protection for sensitive electronics",
+          "Prevention of damage from power surges",
+          "Peace of mind",
+          "Increased lifespan of electronics",
+          "Compliance with San Diego electrical codes"
+        ],
+        "faq": [
+          {
+            "question": "What causes power surges?",
+            "answer": "Power surges can be caused by lightning strikes, utility fluctuations, or internal sources such as appliances turning on and off."
+          },
+          {
+            "question": "How does whole-house surge protection work?",
+            "answer": "Whole-house surge protection diverts excess voltage away from your electrical system, preventing damage from power surges."
+          },
+          {
+            "question": "Is whole-house surge protection expensive?",
+            "answer": "Whole-house surge protection is a cost-effective way to protect your valuable electronics. The cost is typically less than the cost of replacing damaged equipment."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Chula Vista",
+        "slug": "chula-vista-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is proud to serve the residents of Chula Vista, California! As a rapidly growing city with a large number of homes built in the 1970s and 80s, we understand the unique electrical needs of this community. From upgrading outdated wiring to installing modern energy-efficient solutions, our team is equipped to handle any electrical project in your Chula Vista home. \n\nWe know that maintaining a safe and reliable electrical system is essential for your family's comfort and well-being. Vazproz Electric provides comprehensive electrical services, including inspections, repairs, and installations. We're committed to providing prompt, professional, and affordable service to all our Chula Vista customers.",
+        "localContext": "Chula Vista's suburban landscape is characterized by homes built during the 70s and 80s, requiring frequent electrical updates. The mild year-round climate makes outdoor lighting and electrical systems important for enjoying the city's outdoor spaces.",
+        "nearbyAreas": [
+          "San Diego",
+          "National City",
+          "Imperial Beach"
+        ]
+      },
+      {
+        "city": "Carlsbad",
+        "slug": "carlsbad-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is delighted to offer our expert electrical services to the beautiful beach community of Carlsbad, California. We understand the charm and character of Carlsbad's coastal cottages and are dedicated to preserving their unique architectural styles while ensuring safe and efficient electrical systems. Whether you're renovating your beach bungalow or need assistance with a new construction project, our skilled electricians are here to help.\n\nFrom installing energy-efficient lighting to addressing wiring issues in older homes, Vazproz Electric provides comprehensive electrical solutions tailored to the specific needs of Carlsbad residents. We pride ourselves on delivering exceptional customer service and reliable workmanship. We are committed to helping you maintain a safe and comfortable home in this amazing community.",
+        "localContext": "Carlsbad's beach community is known for its charming cottages and coastal lifestyle. The mild year-round climate makes outdoor electrical systems for patios and gardens a popular feature.",
+        "nearbyAreas": [
+          "Oceanside",
+          "Encinitas",
+          "Vista"
+        ]
+      },
+      {
+        "city": "Escondido",
+        "slug": "escondido-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is proud to serve the residents of Escondido, California. With a significant number of ranch-style homes built in the 1960s and 70s, Escondido presents unique electrical challenges and opportunities. Our experienced electricians are well-versed in the specific needs of these homes, from upgrading electrical panels to installing modern lighting solutions.\n\nWe understand the importance of maintaining a safe and reliable electrical system for your family's comfort and security. Vazproz Electric offers a wide range of services, including electrical inspections, repairs, and installations. We are dedicated to providing prompt, professional, and affordable service to all our Escondido customers.",
+        "localContext": "Escondido features many ranch-style homes from the 1960s and 70s, often requiring electrical upgrades to meet modern demands. Its climate allows for year-round outdoor activities, increasing the need for safe outdoor electrical setups.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Vista",
+          "Poway"
+        ]
+      },
+      {
+        "city": "San Diego",
+        "slug": "san-diego-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is your trusted electrician in San Diego, California, providing comprehensive electrical services to homes and businesses throughout the city. As San Diego's needs evolve, we remain committed to offering innovative and reliable solutions tailored to your specific requirements. From downtown lofts to suburban residences, our team of skilled electricians is equipped to handle any electrical project, big or small.\n\nWe understand the importance of safety and efficiency when it comes to your electrical system. Vazproz Electric offers a wide range of services, including electrical inspections, repairs, installations, and upgrades. Whether you need to troubleshoot a faulty outlet or install a new electrical panel, we're here to provide prompt, professional, and affordable service.",
+        "localContext": "San Diego's diverse architecture, from historic Victorian homes to modern high-rises, presents a variety of electrical needs. The mild climate encourages outdoor living, increasing the demand for outdoor lighting and electrical features.",
+        "nearbyAreas": [
+          "La Jolla",
+          "Pacific Beach",
+          "Coronado"
+        ]
+      },
+      {
+        "city": "Oceanside",
+        "slug": "oceanside-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is proud to bring our expert electrical services to the coastal community of Oceanside, California. We understand the unique electrical needs of Oceanside's diverse homes and businesses, from beachfront properties to inland residences. Our team of licensed and experienced electricians is dedicated to providing safe, reliable, and affordable electrical solutions.\n\nWhether you're renovating your home, upgrading your electrical panel, or need assistance with a commercial electrical project, Vazproz Electric is here to help. We offer a wide range of services, including electrical inspections, repairs, installations, and maintenance. We are committed to exceeding your expectations with our quality workmanship and exceptional customer service.",
+        "localContext": "Oceanside's coastal location and mix of older and newer homes require expertise in handling various electrical systems and potential corrosion issues. The climate encourages outdoor activities, increasing the demand for outdoor electrical installations.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Vista",
+          "San Marcos"
+        ]
+      },
+      {
+        "city": "Vista",
+        "slug": "vista-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is pleased to offer our comprehensive electrical services to the residents and businesses of Vista, California. We understand the diverse electrical needs of this growing community, from older homes to new construction projects. Our team of skilled electricians is committed to providing safe, reliable, and affordable electrical solutions.\n\nWhether you're upgrading your home's electrical system, need assistance with a commercial electrical project, or require emergency electrical repairs, Vazproz Electric is here to help. We offer a wide range of services, including electrical inspections, repairs, installations, and maintenance. We pride ourselves on our prompt response times, quality workmanship, and exceptional customer service.",
+        "localContext": "Vista's mix of residential and commercial properties requires a wide range of electrical services, including upgrades for older buildings and installations for new developments. The climate allows for year-round outdoor activities, increasing the demand for outdoor lighting and electrical systems.",
+        "nearbyAreas": [
+          "San Marcos",
+          "Oceanside",
+          "Escondido"
+        ]
+      },
+      {
+        "city": "San Marcos",
+        "slug": "san-marcos-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is dedicated to providing top-notch electrical services to the community of San Marcos, California. We understand the unique electrical needs of San Marcos homes and businesses, from student housing near the university to established residential neighborhoods. Our team of experienced electricians is committed to delivering safe, reliable, and affordable electrical solutions.\n\nWhether you're upgrading your home's electrical system, need assistance with a commercial build-out, or require emergency electrical repairs, Vazproz Electric is here to help. We offer a wide range of services, including electrical inspections, repairs, installations, and maintenance. We are known for our prompt response times, quality workmanship, and dedication to customer satisfaction.",
+        "localContext": "San Marcos's mix of residential areas and a growing university population creates a diverse demand for electrical services, including upgrades for older homes and installations for new construction. Its climate enables year-round outdoor activities, boosting the need for outdoor electrical systems.",
+        "nearbyAreas": [
+          "Vista",
+          "Escondido",
+          "Carlsbad"
+        ]
+      },
+      {
+        "city": "Encinitas",
+        "slug": "encinitas-ca",
+        "state": "CA",
+        "content": "Vazproz Electric is delighted to serve the beautiful coastal community of Encinitas, California. We understand the unique electrical needs of Encinitas's diverse homes and businesses, from surf shops to residential properties. Our team of licensed and experienced electricians is dedicated to providing safe, reliable, and affordable electrical solutions.\n\nWhether you're renovating your home, upgrading your electrical panel, or need assistance with a commercial electrical project, Vazproz Electric is here to help. We offer a wide range of services, including electrical inspections, repairs, installations, and maintenance. We are committed to exceeding your expectations with our quality workmanship and exceptional customer service.",
+        "localContext": "Encinitas's coastal location and mix of older and newer homes require expertise in handling various electrical systems and potential corrosion issues. The climate encourages outdoor activities, increasing the demand for outdoor electrical installations.",
+        "nearbyAreas": [
+          "Carlsbad",
+          "Solana Beach",
+          "Leucadia"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "Vazproz Electric upgraded my electrical panel in my older home in North Park. They were professional, efficient, and explained everything clearly. I highly recommend them! The new panel handles my modern appliances without any issues.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired Vazproz Electric to install recessed lighting in our kitchen in La Jolla. The work was done well, and the electricians were courteous. There was a slight delay due to a parts shortage, but they communicated promptly.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Outlet Repair",
+        "text": "I had a dead outlet in my living room, and Vazproz Electric came out quickly to fix it. The electrician was knowledgeable and identified the problem right away. The price was reasonable, and I appreciated their prompt service.",
+        "date": "2025-04-18"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Whole-House Rewiring",
+        "text": "Vazproz Electric did an excellent job rewiring our entire house in Hillcrest. They were very thorough and paid attention to detail. The team was respectful of our home and cleaned up after themselves. We feel much safer now with the new wiring.",
+        "date": "2025-05-05"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Ceiling Fan Installation",
+        "text": "I had Vazproz Electric install a ceiling fan on my patio in Pacific Beach. The installation was quick and easy. The electrician gave me good advice on choosing a fan that could withstand the coastal weather. I am very happy with the results.",
+        "date": "2025-05-20"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Electrical Inspection",
+        "text": "We used Vazproz Electric for an electrical inspection before buying a home in Scripps Ranch. The inspection was thorough and gave us peace of mind. They identified a few minor issues that we were able to address before closing on the house.",
+        "date": "2025-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Vazproz Electric | San Diego Electrician",
+        "description": "Reliable electrical services in San Diego, CA. Panel upgrades, lighting, repairs. Licensed, insured electricians. Free estimates!"
+      },
+      "about": {
+        "title": "About Vazproz Electric | San Diego CA",
+        "description": "Learn about Vazproz Electric's commitment to quality electrical services in San Diego. Experienced, licensed electricians."
+      },
+      "services": {
+        "title": "Electrical Services | Vazproz Electric SD",
+        "description": "Comprehensive electrical services in San Diego: panel upgrades, lighting, repairs, rewiring. Trust Vazproz Electric for safety and reliability."
+      },
+      "contact": {
+        "title": "Contact Vazproz Electric | San Diego CA",
+        "description": "Contact Vazproz Electric for reliable electrical services in San Diego. Get a free estimate from experienced electricians."
+      },
+      "reviews": {
+        "title": "Vazproz Electric Reviews | San Diego CA",
+        "description": "Read reviews for Vazproz Electric in San Diego. See what our satisfied customers say about our electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Vazproz Electric SD",
+        "description": "Vazproz Electric provides electrical services throughout San Diego County. Find out if we serve your area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-installation": "/images/service-lighting-installation.webp",
+      "outlet-and-switch-repair": "/images/service-outlet-and-switch-repair.webp",
+      "whole-house-rewiring": "/images/service-whole-house-rewiring.webp",
+      "electrical-inspections": "/images/service-electrical-inspections.webp",
+      "ceiling-fan-installation": "/images/service-ceiling-fan-installation.webp",
+      "surge-protection": "/images/service-surge-protection.webp"
+    },
+    "servicesResponsive": {
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-installation": {
+        "src": "/images/service-lighting-installation.webp",
+        "srcset": "/images/service-lighting-installation-400w.webp 400w, /images/service-lighting-installation-800w.webp 800w, /images/service-lighting-installation-1200w.webp 1200w, /images/service-lighting-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outlet-and-switch-repair": {
+        "src": "/images/service-outlet-and-switch-repair.webp",
+        "srcset": "/images/service-outlet-and-switch-repair-400w.webp 400w, /images/service-outlet-and-switch-repair-800w.webp 800w, /images/service-outlet-and-switch-repair-1200w.webp 1200w, /images/service-outlet-and-switch-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-rewiring": {
+        "src": "/images/service-whole-house-rewiring.webp",
+        "srcset": "/images/service-whole-house-rewiring-400w.webp 400w, /images/service-whole-house-rewiring-800w.webp 800w, /images/service-whole-house-rewiring-1200w.webp 1200w, /images/service-whole-house-rewiring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-inspections": {
+        "src": "/images/service-electrical-inspections.webp",
+        "srcset": "/images/service-electrical-inspections-400w.webp 400w, /images/service-electrical-inspections-800w.webp 800w, /images/service-electrical-inspections-1200w.webp 1200w, /images/service-electrical-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ceiling-fan-installation": {
+        "src": "/images/service-ceiling-fan-installation.webp",
+        "srcset": "/images/service-ceiling-fan-installation-400w.webp 400w, /images/service-ceiling-fan-installation-800w.webp 800w, /images/service-ceiling-fan-installation-1200w.webp 1200w, /images/service-ceiling-fan-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "surge-protection": {
+        "src": "/images/service-surge-protection.webp",
+        "srcset": "/images/service-surge-protection-400w.webp 400w, /images/service-surge-protection-800w.webp 800w, /images/service-surge-protection-1200w.webp 1200w, /images/service-surge-protection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
